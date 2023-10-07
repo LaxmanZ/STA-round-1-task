@@ -1,0 +1,28 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem 6rem;
+  background-color: #fff;
+  align-items: center;
+}
+
+.logo {
+  font-size: 1.5rem;
+  font-weight: bold;
+  border-bottom: 2px solid grey;
+}
+
+.auth-btn {
+  padding: 0.7rem 1.5rem;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: black;
+  color: white;
+}
+
+.auth-btn:hover {
+  background-color: white;
+  color: black;
+  transition: all ease-in-out;
+}

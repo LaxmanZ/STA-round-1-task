@@ -1,0 +1,47 @@
+.home {
+  padding: 0rem 6rem;
+  align-content: center;
+}
+
+.homeTop {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px solid gray;
+  padding: 1rem 0rem;
+  align-items: center;
+}
+
+.homeTop h2 {
+  font-size: 1.5rem;
+  font-weight: normal;
+}
+
+.headerButton {
+  padding: 0.5rem 1rem;
+  border-radius: 5px;
+  background-color: #088395;
+  border: none;
+  color: white;
+  cursor: pointer;
+}
+
+.inputField {
+  margin-top: 1.5rem;
+  display: flex;
+  align-items: center;
+  padding: 0.3rem;
+  gap: 10px;
+  background-color: white;
+  border: 1px solid grey;
+  border-radius: 5px;
+  padding-right: 10rem;
+}
+
+.search-icon {
+  color: gray;
+}
+
+.search-input {
+  border: none;
+  background-color: white;
+}
