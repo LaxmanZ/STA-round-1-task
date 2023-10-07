@@ -59,6 +59,18 @@
       "emailId": "michael.davis@example.com",
       "phoneNumber": "+1 333-444-5555",
       "address": "222 Birch Lane, Suburbia, State, Zipcode"
+    },
+    {
+      "studentId": "6",
+      "studentName": "Sam Johnson",
+      "profileImageUrl": "https://static.vecteezy.com/system/resources/previews/010/529/360/non_2x/male-user-face-profile-free-vector.jpg",
+      "dateOfBirth": "2002-09-10",
+      "gender": "Male",
+      "fatherName": "Robert Johnson",
+      "motherName": "Laura Johnson",
+      "emailId": "sam.johnson@example.com",
+      "phoneNumber": "+1 555-123-4567",
+      "address": "789 Oak Road, Villagetown, State, Zipcode"
     }
   ]
 }

@@ -6,7 +6,6 @@ const Table = () => {
   const [studentData, setStudentData] = useState([]);
 
   useEffect(() => {
-    // Fetch data from the JSON file
     setStudentData(sampledata.student);
   }, []);
 
