@@ -203,7 +203,7 @@ const AddStudentModal = ({ isOpen, onClose, onAddStudent }) => {
           </button>
           <button className="headerButton">
             <Link style={{ textDecoration: 'none', color: 'white' }} to="/">
-              Cancel
+              Go Back
             </Link>
           </button>
         </footer>
